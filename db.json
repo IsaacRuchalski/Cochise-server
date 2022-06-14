@@ -7,9 +7,7 @@
             "translations": {
                 "FR": "Bonjour, Salut",
                 "EN": "Hello, Hey, Hi"
-            },
-            "pronunciation": "Oh-see-yo",
-            "priority": "required"
+            }
         },
         {
             "id": 2,
@@ -18,9 +16,7 @@
             "translations": {
                 "FR": "Comment vas-tu? / Comment allez-vous?",
                 "EN": "How are you?"
-            },
-            "pronunciation": "Doe-hee-chew",
-            "priority": "required"
+            }
         }
     ]
 }
