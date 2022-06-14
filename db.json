@@ -1,22 +1,26 @@
 {
-    "apache": [
+    "words": [
         {
             "id": 1,
             "category": "Small Talk",
-            "lemma": "Osiyo",
-            "translations": {
-                "FR": "Bonjour, Salut",
-                "EN": "Hello, Hey, Hi"
-            }
+            "lemma": "Osiyo"
         },
         {
             "id": 2,
             "category": "Small Talk",
-            "lemma": "Dtohitsu?",
-            "translations": {
-                "FR": "Comment vas-tu? / Comment allez-vous?",
-                "EN": "How are you?"
-            }
+            "lemma": "Dtohitsu?"
+        }
+    ],
+    "translations": [
+        {
+            "wordId": 1,
+            "fr": "Bonjour, Salut",
+            "en": "Hello, Hey, Hi"
+        },
+        {
+            "wordId": 2,
+            "fr": "Comment vas-tu? / Comment allez-vous?",
+            "en": "How are you?"
         }
     ]
 }
